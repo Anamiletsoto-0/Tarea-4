@@ -1,3 +1,5 @@
+//Aclaro que el código lo hice en Eclipse, pero para subirlo a GitHub lo pegué en Visual Studio Code. Espero que no haya problema.
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
